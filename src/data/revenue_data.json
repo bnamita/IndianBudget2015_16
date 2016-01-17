@@ -1,0 +1,57 @@
+{
+    "name": "Total Revenue",
+    "size": 1777477,
+    "children": [
+
+                {
+                    "name": "Tax Revenue",
+                    "size": 919842,
+                    "children": [
+                        {"name": "Corporation Tax", "size": 470628},
+                        {"name": "Income Tax", "size": 327367},
+                        {"name": "Wealth Tax", "size": 0},
+                        {"name": "Customs", "size": 208336},
+                        {"name": "Excise Duties", "size": 229808},
+                        {"name": "Service Tax", "size": 209774},
+                        {"name": "Taxes on UTs", "size": 3577}
+                    ]
+
+                },
+                {
+                    "name": "Non-Tax Revenue",
+                    "size":221733,
+                    "children": [
+                        {"name": "Interest Receipts", "size": 23600},
+                        {"name": "Dividend & Profits", "size": 100651},
+                        {"name": "External Grants", "size": 1774},
+                        {"name": "Other", "size": 94413},
+                        {"name": "Receipts of UTs", "size": 1296}
+                    ]
+                },
+
+
+
+        {
+            "name": "Capital Receipts",
+            "size":623861,
+            "children": [
+                {"name": "Non-Debt",
+                    "children":[
+                        {"name": "Loan Recoveries", "size": 10753},
+                        {"name": "Misc.", "size": 69500}
+
+                    ],
+                    "size": 80253},
+                {"name": "Debt",
+                    "children":[
+                        {"name": "Market Loans", "size": 456405},
+                        {"name": "Short Term Borrowings", "size": 30063},
+                        {"name": "Others", "size": 57140}
+
+                    ],
+                    "size": 543608}
+            ]
+        }
+
+    ]
+}
