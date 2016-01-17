@@ -11,7 +11,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectPlainTextFileTypeManager">
-    <file url="file://$USER_HOME$/WebstormProjects/IndianBudget2015_16/src/data/revenue_data.json" />
+    <file url="file://$USER_HOME$/WebstormProjects/IndianBudget2015_16/data/revenue_data.json" />
   </component>
   <component name="ProjectRootManager" version="2" />
 </project>
