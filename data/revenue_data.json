@@ -7,13 +7,13 @@
                     "name": "Tax Revenue",
                     "size": 919842,
                     "children": [
-                        {"name": "Corporation Tax", "size": 470628},
-                        {"name": "Income Tax", "size": 327367},
+                        {"name": "Corporation Tax", "size": 298659},
+                        {"name": "Income Tax", "size": 207746},
                         {"name": "Wealth Tax", "size": 0},
-                        {"name": "Customs", "size": 208336},
-                        {"name": "Excise Duties", "size": 229808},
-                        {"name": "Service Tax", "size": 209774},
-                        {"name": "Taxes on UTs", "size": 3577}
+                        {"name": "Customs", "size": 132209},
+                        {"name": "Excise Duties", "size": 145835},
+                        {"name": "Service Tax", "size": 133121},
+                        {"name": "Taxes on UTs", "size": 2269}
                     ]
 
                 },
